@@ -2,7 +2,7 @@
 <p align="center">
 
 *<b>   This is a website of my current projects worked on during my
-College career at Columbia College Chicago
+college career as a student at Columbia College Chicago
         </b><br>*
 
 
