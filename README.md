@@ -4,5 +4,5 @@
 ###*<b>  ~ Bringing Life From A Designers Mind ~       </b><br>*
 
 
-This is a website of my current things worked on during my
+This is a website of my current projects worked on during my
 College career at Columbia College Chicago
